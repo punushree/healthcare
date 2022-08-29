@@ -1,0 +1,33 @@
+.logo
+{
+  margin-bottom: -30px;
+    background: #fff;
+    z-index: 9;
+    padding: 10px;
+    border-radius: 10px;
+}
+.box.flex_space a {
+  font-size: 18px;
+  font-weight: 400;
+  padding: 15px 30px 0 30px;
+ margin: 0 15px;
+}
+.box.flex_space a:hover
+{
+  color: #31b675;
+  border-bottom: 3px solid #31b675;
+  border-top: 3px solid #31b675;
+}
+.flex_space
+{
+  padding-top:5px;
+  padding-bottom:5px;
+}
+.flex_space  p
+{
+  padding-top: 10px;
+  padding-left: 15px;
+  font-size: 22px;
+  color: #31b675;
+  font-weight: bold;
+}
